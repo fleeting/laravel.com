@@ -25,7 +25,7 @@
             <a href="//laravel.com"><img src="/assets/img/logo-head.png" alt="Laravel"></a>
         </div>
         <ul class="primary-nav-ul">
-            <li><a href="#">Welcome</a></li>
+            <li><a href="/" title="Laravel Framework">Welcome</a></li>
             <li class="current-item"><a href="/docs" title="Documentation">Documentation</a></li>
             <li><a href="{{ url('api') }}/{{ DEFAULT_VERSION }}" title="Laravel Framework API">API</a></li>
             <li><a href="http://laracasts.com" title="Documentation">Laracasts</a></li>
